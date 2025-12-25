@@ -72,17 +72,6 @@ Explanation:
 - Submit pull requests
 - If you like this project, leave a ⭐ on GitHub!
 
-## 📌 UPLOADING TO GITHUB (STEP-BY-STEP)
-1️⃣ Initialize Git
-git init
-git add .
-git commit -m "Initial commit - Two-Player Chess Game"
-
-2️⃣ Create a New Repository on GitHub
-- Go to GitHub
-- Click "New Repository"
-- Set the name as "oop-chess-game"
-- DO NOT initialize with a README (since we already have one)
 
 3️⃣ Link Local Repo to GitHub
 git branch -M main
