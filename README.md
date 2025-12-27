@@ -61,8 +61,8 @@ Explanation:
 
 ## 👨‍💻 TEAM MEMBERS
 - M. Prasanna Kumar (CS23B1011)
-- Syed Farhan (CS23B2039)(Myself)
-- Mohamed Amjad (CS23B2013)
+- Syed Farhan (CS23B2039)
+- Mohamed Amjad (CS23B2013)(Myself)
 - Barath Dharshan (CS23I1005)
 - Aditya Lokesh (CS23I1029)
 
